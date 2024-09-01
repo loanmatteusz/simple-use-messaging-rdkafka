@@ -65,6 +65,5 @@ If you encounter connection errors, such as Connection refused, ensure that Kafk
 docker-compose down
 docker-compose up -d
 ````
-### License
-
-This project is licensed under the MIT License.
+### About
+This project is a study and was written following [this video](https://youtu.be/yAg5JDs4EKI) made by the YouTube user `Semicolon`.
