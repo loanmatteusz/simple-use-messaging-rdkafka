@@ -13,8 +13,8 @@ This project is a simple application to demonstrate basic messaging concepts wit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/loanmatteusz/simple-use-messaging-rdkafka.git
+cd simple-use-messaging-rdkafka
 ```
 
 ### 2. Start the Containers with Docker Compose
